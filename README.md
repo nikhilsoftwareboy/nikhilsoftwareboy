@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Singh</h1>
 <h3 align="center">Google Cloud & Google Ads Certified |Python & HTML Enthusiast | Aspiring Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilsoftwareboy&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsoftwareboy" /> </p>
