@@ -23,7 +23,7 @@
 <a href="https://twitter.com/nikhilsoftboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilsoftboy" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/nikhil--kumar--singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil--kumar--singh" height="30" width="40" /></a>
 <a href="https://instagram.com/nikhilsoftboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhilsoftboy" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nikhilsoftboy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nikhilsoftboy" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCSPYhW3-_xOPx2cXQTX1Ccg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nikhilsoftboy" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
