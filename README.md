@@ -12,9 +12,6 @@
 
 - 🌱 I’m currently learning **Python , HTML, Data Security**
 
-- 📫 How to reach me **Linkedin.com/nkhil--kumar--singh**
-
-- ⚡ Fun fact **I am Funny**
 
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhilsoftwareboy" alt="nikhilsoftwareboy" /></a> </p>
 
