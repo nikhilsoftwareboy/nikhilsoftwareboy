@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/18125109/31239479-d554f29c-a9c2-11e7-8138-71483d537ca9.gif)]([https://rishavchanda.io](https://www.youtube.com/channel/UCSPYhW3-_xOPx2cXQTX1Ccg))
 <h1 align="center">Hi 👋, I'm Nikhil Kumar Singh</h1>
 <h3 align="center">Google Cloud & Google Ads Certified |Python & HTML Enthusiast | Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
